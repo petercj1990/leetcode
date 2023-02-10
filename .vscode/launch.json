@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "request": "launch",
+            "name": "leetCode",
+            "program": "${workspaceFolder}\\Program.Cs"
+        }
+    ]
+}
